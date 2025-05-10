@@ -1,4 +1,4 @@
-sales-counter/
+repository-root/
 ├── index.html
 ├── style.css
 └── script.js
